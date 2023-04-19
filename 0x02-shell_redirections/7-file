@@ -1,2 +1,2 @@
 #!bin/bash
-printff"Best School\n" > "\\*\\\\'\"Best School\"\'\\\\*$\\?\*\*\*\*\*:)"
+export BEST="School"
